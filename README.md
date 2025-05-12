@@ -25,7 +25,7 @@ Dies ist mein erstes Lernprojekt mit Python. Ich habe ein einfaches Geldautomate
    cd ATM-automation
 
 3.Führen Sie das Hauptskript aus:
-python main.py
+  python main.py
 
 
 # 📌 Hinweise
